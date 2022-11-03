@@ -1,5 +1,5 @@
 {% set name = "openpulse" %}
-{% set version = "0.4.0" %}
+{% set version = "0.4.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/openpulse-{{ version }}.tar.gz
-    sha256: 62c413e41024617a86be6da3f15b95313ea65e72fbb40b388fa52a3a72bce7b4
+    sha256: a73c76ab73bd5f2a8e35a4db8a4dff33481e788d610fdbff8c4d9b425bdb0534
   - url: https://raw.githubusercontent.com/openqasm/openpulse-python/v{{ version }}/LICENSE
     sha256: 5d24d1bf838a90bd88ba223b3d64bebb260ec6e52300dc5df3ed8f1ee9f8723e
 
