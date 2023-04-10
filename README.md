@@ -1,11 +1,11 @@
-About openpulse
-===============
+About openpulse-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/openpulse-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/openqasm/openpulse/
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/openpulse-feedstock/blob/main/LICENSE.txt)
 
 Summary: Reference OpenPulse AST in Python
 
